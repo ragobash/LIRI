@@ -3,7 +3,7 @@ function help() {
     console.log("--------------------------------");
     console.log("");
 
-// Movie-this command
+// Movie-this commandd
     console.log("movie-this [title]");
     console.log("Return: Movie Title, Release Year, Ratings, Country, Language, Plot, and Actors");
 
